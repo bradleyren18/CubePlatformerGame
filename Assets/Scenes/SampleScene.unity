@@ -350,6 +350,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6362944598735290844, guid: 6e5cbe3d1c6ff874e946406521e1c7e6, type: 3}
+      propertyPath: m_Size.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6362944598735290844, guid: 6e5cbe3d1c6ff874e946406521e1c7e6, type: 3}
+      propertyPath: m_Size.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6362944598735290844, guid: 6e5cbe3d1c6ff874e946406521e1c7e6, type: 3}
+      propertyPath: m_Size.z
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6742424712033748703, guid: 6e5cbe3d1c6ff874e946406521e1c7e6, type: 3}
       propertyPath: m_Name
       value: tnt
@@ -876,7 +888,7 @@ MonoBehaviour:
   slime: {fileID: 7331047248255847620, guid: 9ae0deac9be8d6f48bcaee7d9534f71d, type: 3}
   tnt: {fileID: 6742424712033748703, guid: 6e5cbe3d1c6ff874e946406521e1c7e6, type: 3}
   portal: {fileID: 49725328}
-  winText: {fileID: 422379531415522537, guid: c987150f34236d044afc073ac2577e99, type: 3}
+  winText: {fileID: 422379531415522537, guid: 84c785bfad6a40746bb8c7215ad3265d, type: 3}
   gameOverText: {fileID: 3421959936299585340, guid: d2812cde2de210d429c61ec5a24f4372, type: 3}
   grassMat: {fileID: 2100000, guid: 899b8be215e2c2a4d93223a29f4d9589, type: 2}
   slimeMat: {fileID: 2100000, guid: 3f614a9e4d6e37b41b89843e0e1a00f3, type: 2}
